@@ -338,10 +338,10 @@ const Sectiontwo = () => {
         <div className="flex lg:flex-row lg:gap-60 flex-col gap-10 justify-center items-center">
           <div className="mt-24 flex flex-col lg:ml-9 ml-2">
             <div className="text-white font-sans font-bold text-4xl ">
-              Let's discuss<br></br> Your project
+              Lets discuss<br></br> Your project
             </div>
             <div className="font-sans font-medium text-white mt-6">
-              Let's figure out how to create an effective application, <br></br>
+              Lets figure out how to create an effective application, <br></br>
               its cost and terms of its development
             </div>
           </div>
